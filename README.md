@@ -16,5 +16,5 @@ Atualmente estudando **Sistemas de Informação** na **UFRPE**
 ![Git](https://img.shields.io/badge/GIT-CD853F?style=for-the-badge&logo=git&logoColor=white)![Vscode](https://img.shields.io/badge/Vscode-FFE4C4?style=for-the-badge&logo=visual-studio-code&logoColor=606060)
 
 ## Github Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=2F4F4F&border_color=FFE4C4&title_color=CD853F&text_color=DEB887)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rebeca-dossantos&layout=compact&bg_color=2F4F4F&border_color=FFE4C4&title_color=CD853F&text_color=DEB887)
 
